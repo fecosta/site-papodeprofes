@@ -935,7 +935,6 @@ a {
   transition: 0.3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.7) !important;
 }
 .cid-uK4HvyjY2B .nav-item:focus,
 .cid-uK4HvyjY2B .nav-link:focus {
@@ -1177,7 +1176,7 @@ a {
 }
 .cid-uK4HvyjY2B .navbar-dropdown {
   padding: 0;
-  background: rgba(255, 255, 255, 0.7) !important;
+  background-color: #ffffff !important;
   position: fixed;
 }
 .cid-uK4HvyjY2B .opacityScroll {
@@ -1267,9 +1266,6 @@ a {
     padding: 1rem;
     border-radius: 1.5rem;
     background: #ffffff;
-    opacity: 1;
-    border-color: rgba(255, 255, 255, 0.7) !important;
-    background: rgba(255, 255, 255, 0.7) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uK4HvyjY2B .navbar-nav .nav-item .nav-link::after {
