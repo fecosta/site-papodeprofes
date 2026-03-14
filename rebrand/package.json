@@ -1,0 +1,6 @@
+{
+  "homepage": "https://github.com/fecosta/site-papodeprofes/tree/main/rebrand",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
